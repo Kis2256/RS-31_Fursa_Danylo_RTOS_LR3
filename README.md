@@ -44,7 +44,11 @@ STM32H743VIT6 з використанням переривань та елеме
 
 Відео роботи:
 ![compressed-1775415815205](https://github.com/user-attachments/assets/993d5c5a-f6b0-4707-ba33-b45f9cb1e738)
-https://github.com/user-attachments/assets/9b293390-3ab7-483c-baef-56adbf24370f
 
+
+
+
+
+https://github.com/user-attachments/assets/3d109970-439e-4126-9962-682d7db6b928
 
 
