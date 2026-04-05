@@ -43,12 +43,12 @@ STM32H743VIT6 з використанням переривань та елеме
 - LED2 (PD13): GND →  Катод LED → Анод LED →  резистор (220 Ом) →  PD13.
 
 Відео роботи:
-![compressed-1775415815205](https://github.com/user-attachments/assets/993d5c5a-f6b0-4707-ba33-b45f9cb1e738)
-
-
-
 
 
 https://github.com/user-attachments/assets/3d109970-439e-4126-9962-682d7db6b928
+
+
+
+![compressed-1775415815205](https://github.com/user-attachments/assets/53a81edf-ef64-4392-aca2-b7ecebd51300)
 
 
