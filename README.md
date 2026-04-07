@@ -56,6 +56,7 @@ STM32H743VIT6 з використанням переривань та елеме
 
 
 https://github.com/user-attachments/assets/3d109970-439e-4126-9962-682d7db6b928
+
 <img width="1397" height="504" alt="image" src="https://github.com/user-attachments/assets/3e73146b-769e-442e-829f-daf91d11c9b9" />
 
 
